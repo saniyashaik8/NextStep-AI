@@ -1,0 +1,13 @@
+course_id,course_name,skills,category,difficulty,hours,career
+C01,Python Basics,python programming basics,Programming,Beginner,10,Data Scientist
+C02,Data Analysis with Pandas,pandas python data analysis,Data,Beginner,12,Data Analyst
+C03,Machine Learning 101,machine learning scikit-learn,AI,Intermediate,20,ML Engineer
+C04,Deep Learning with PyTorch,deep learning pytorch neural networks,AI,Intermediate,25,AI Engineer
+C05,SQL for Data,sql database querying,Data,Beginner,8,Data Analyst
+C06,Data Visualization,matplotlib seaborn visualization,Data,Beginner,10,Data Analyst
+C07,NLP Fundamentals,nlp text processing,AI,Intermediate,18,NLP Engineer
+C08,Computer Vision Basics,opencv computer vision,AI,Intermediate,22,CV Engineer
+C09,MLOps Essentials,mlops docker deployment,Engineering,Intermediate,15,MLOps Engineer
+C10,Statistics for AI,statistics probability,Math,Beginner,12,Data Scientist
+C11,Big Data Spark,spark hadoop big data,Data,Intermediate,20,Data Engineer
+C12,Generative AI Intro,generative ai llm prompt,AI,Beginner,10,AI Engineer
